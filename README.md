@@ -42,7 +42,7 @@ Subsquid is the most dev-friendly way to develop and deploy custom GraphQL APIs 
 
 # GitHub Repositories
 - [Sample Squid Indexing Transactions To and From vitalik.eth](https://github.com/subsquid-labs/evm-transactions-example)
-**GitHub Repositories**
+
 
 
 
