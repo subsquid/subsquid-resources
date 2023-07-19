@@ -11,7 +11,7 @@
 [![Discord](https://img.shields.io/discord/1031524867910148188?color=%237289DA&label=discord)](https://discord.gg/subsquid)
 
 
-[Website](https://subsquid.io) | [Docs.rs](https://docs.rs/leptos/badge.svg) | [Discord](https://discord.gg/subsquid)
+[Website](https://subsquid.io) | [Docs](https://docs.rs/leptos/badge.svg) | [Discord](https://discord.gg/subsquid)
 
 
 # Subsquid
