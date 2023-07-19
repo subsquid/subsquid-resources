@@ -14,9 +14,8 @@
 [Website](https://subsquid.io) | [Docs.rs](https://docs.rs/leptos/badge.svg) | [Discord](https://discord.gg/subsquid)
 
 
-# Subsquid is the most dev-friendly way to develop and deploy custom GraphQL APIs and ETLs for advanced blockchain use cases.
-Subsquid is a full-stack blockchain indexing SDK and specialized data lakes (Archives) optimized for extraction of large volumes of historical on-chain data.
-The SDK offers a highly customizable Extract-Transform-Load-Query stack and indexing speeds of up to and beyond 50,000 blocks per second when indexing events and transactions.
+# Subsquid
+Subsquid is the most dev-friendly way to develop and deploy custom GraphQL APIs and ETLs for advanced blockchain use cases. Subsquid is a full-stack blockchain indexing SDK and specialized data lakes (Archives) optimized for extraction of large volumes of historical on-chain data. The SDK offers a highly customizable Extract-Transform-Load-Query stack and indexing speeds of up to and beyond 50,000 blocks per second when indexing events and transactions.
 
 # Documentation and Useful Links
 - [Creating a Subsquid](https://docs.subsquid.io/tutorials/)
