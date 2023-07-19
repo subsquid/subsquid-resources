@@ -1,0 +1,10 @@
+/node_modules
+/lib
+
+/**Versions.json
+/**Versions.jsonl
+
+# IDE files
+/.idea
+/.vscode
+/.envrc

@@ -12,6 +12,7 @@ The SDK offers a highly customizable Extract-Transform-Load-Query stack and inde
 - [Querying from an Application](https://thegraph.com/docs/en/querying/querying-from-an-application/)
 - [Subsquid for EVM chains](https://docs.subsquid.io/examples/evm/)
 - [Subsquid for Substrate](https://docs.subsquid.io/examples/substrate/)
+- [Subsquid vs The Graph](https://docs.subsquid.io/migrate/subsquid-vs-thegraph/)
 
 # Tutorials
 - [Subsquid Basics](https://docs.subsquid.io/basics/)
@@ -22,8 +23,11 @@ The SDK offers a highly customizable Extract-Transform-Load-Query stack and inde
 - [Subsquid Academy](https://www.youtube.com/watch?v=x4fEP0KJ3OE&list=PLH2948XqklrgTvG6-ro3eqS17j7n_raiN&ab_channel=subsquid)
 - [Streamline Cross-Chain and EVM Processing with Subsquid](https://academy.moonbeam.network/p/moonbeam-subsquid)
 - [Build Defi Dashaboard using Subsquid](https://www.youtube.com/watch?v=KVabPQqdKno&ab_channel=subsquid)
-- [nalyzing Lens Protocol using Subsquid SDK](https://www.youtube.com/watch?v=6xAEEwlNm4E&ab_channel=subsquid)
+- [Analyzing Lens Protocol using Subsquid SDK](https://www.youtube.com/watch?v=6xAEEwlNm4E&ab_channel=subsquid)
 
+# GitHub Repositories
+- [Sample Squid Indexing Transactions To and From vitalik.eth](https://github.com/subsquid-labs/evm-transactions-example)
+**GitHub Repositories**
 
 
 
