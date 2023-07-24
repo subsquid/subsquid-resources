@@ -17,6 +17,9 @@
 # Subsquid
 Subsquid is the most dev-friendly way to develop and deploy custom GraphQL APIs and ETLs for advanced blockchain use cases. Subsquid is a full-stack blockchain indexing SDK and specialized data lakes (Archives) optimized for extraction of large volumes of historical on-chain data. The SDK offers a highly customizable Extract-Transform-Load-Query stack and indexing speeds of up to and beyond 50,000 blocks per second when indexing events and transactions.
 
+Subsquid is on a mission to democratize Web3 data access by providing unrestricted access to the data lake without any charges or rate limits. To achieve this, Subsquid uses an Archive, which is a specialized data lake designed for on-chain data and optimized for batch data access. The Archive API is meant to be used as a data source for Squid SDK processors.
+Compared to data access using a conventional chain node RPC, an Archive allows one to access data at near zero cost, in a more granular fashion and from multiple blocks at once, thanks to its rich batching and filtering capabilities.
+
 # Documentation and Useful Links
 - [How To Create a Squid](https://docs.subsquid.io/tutorials/)
 - [How To Query a Squid](https://docs.subsquid.io/query-squid/)
